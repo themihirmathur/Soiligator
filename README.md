@@ -19,10 +19,6 @@
 - **Scalable Design**: Easily extendable to include additional features like soil type and crop variety.
 - **Data Resilience**: Designed to handle label noise and outliers, ensuring robustness in real-world applications.
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ## Table of Contents
 1. [Overview](#overview)
 2. [Key Features](#key-features)
@@ -32,10 +28,6 @@
 6. [Model Training and Evaluation](#model-training-and-evaluation)
 7. [Results](#results)
 8. [Future Work](#future-work)
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
 
 ## Installation
 To use this project, install the required Python packages with the following command:
